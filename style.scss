@@ -7,5 +7,12 @@ body {
 }
 
 .answers {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
     margin-bottom: 20px;
+    > button{
+        
+    }
 }
