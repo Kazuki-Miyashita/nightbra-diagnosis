@@ -1,0 +1,68 @@
+{
+    "questions": [
+        {
+            "question": "here is question 1",
+            "answers": [
+                {
+                    "answer": "correct",
+                    "score": 1
+                },
+                {
+                    "answer": "incorrect",
+                    "score": 0
+                },
+                {
+                    "answer": "incorrect",
+                    "score": 0
+                },
+                {
+                    "answer": "incorrect",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "question": "here is question 2",
+            "answers": [
+                {
+                    "answer": "correct",
+                    "score": 1
+                },
+                {
+                    "answer": "incorrect",
+                    "score": 0
+                },
+                {
+                    "answer": "incorrect",
+                    "score": 0
+                },
+                {
+                    "answer": "incorrect",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "question": "here is question 3",
+            "answers": [
+                {
+                    "answer": "correct",
+                    "score": 1
+                },
+                {
+                    "answer": "incorrect",
+                    "score": 0
+                },
+                {
+                    "answer": "incorrect",
+                    "score": 0
+                },
+                {
+                    "answer": "incorrect",
+                    "score": 0
+                }
+            ]
+        }
+    ],
+    "score-line": 3
+}
