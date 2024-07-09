@@ -1,64 +1,40 @@
 {
     "questions": [
         {
-            "question": "here is question 1",
+            "question": "横流れをサポートするネットはついてますか",
             "answers": [
                 {
-                    "answer": "correct",
+                    "answer": "はい",
                     "score": 1
                 },
                 {
-                    "answer": "incorrect",
-                    "score": 0
-                },
-                {
-                    "answer": "incorrect",
-                    "score": 0
-                },
-                {
-                    "answer": "incorrect",
+                    "answer": "いいえ",
                     "score": 0
                 }
             ]
         },
         {
-            "question": "here is question 2",
+            "question": "横流れをサポートするフロントホックはついてますか",
             "answers": [
                 {
-                    "answer": "correct",
+                    "answer": "はい",
                     "score": 1
                 },
                 {
-                    "answer": "incorrect",
-                    "score": 0
-                },
-                {
-                    "answer": "incorrect",
-                    "score": 0
-                },
-                {
-                    "answer": "incorrect",
+                    "answer": "いいえ",
                     "score": 0
                 }
             ]
         },
         {
-            "question": "here is question 3",
+            "question": "かわいいですか",
             "answers": [
                 {
-                    "answer": "correct",
+                    "answer": "はい",
                     "score": 1
                 },
                 {
-                    "answer": "incorrect",
-                    "score": 0
-                },
-                {
-                    "answer": "incorrect",
-                    "score": 0
-                },
-                {
-                    "answer": "incorrect",
+                    "answer": "いいえ",
                     "score": 0
                 }
             ]
